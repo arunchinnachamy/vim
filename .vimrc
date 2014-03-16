@@ -124,7 +124,7 @@ nnoremap <leader>sv :source $MYVIMRC<cr>
 inoremap jk <esc>
 
 " TO train myself from using arrow keys
-inoremap <esc> <nop>
+"inoremap <esc> <nop>
 map <up> <nop>
 map <down> <nop>
 map <left> <nop>
